@@ -1,0 +1,1 @@
+This file is being created to create a new directory to upload files to a directory by course
